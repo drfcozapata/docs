@@ -1,0 +1,4 @@
+<p>Id de la tarea: {{ todoId }}</p>
+<button @click="todoId++">Recuperar la próxima tarea</button>
+<p v-if="!todoData">Cargando...</p>
+<pre v-else>{{ todoData }}</pre>

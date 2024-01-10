@@ -1,0 +1,32 @@
+<svg @click="onClick">
+  <foreignObject x="0" y="40%" width="100%" height="200">
+    <p class="tip">
+      Haz clic en el lienzo para dibujar un círculo. Haz clic en un círculo
+      para seleccionarlo. Haz clic con el botón derecho en el lienzo para
+      ajustar el radio del círculo seleccionado.
+    </p>
+  </foreignObject>
+  <circle
+    v-for="circle in circles"
+    :cx="circle.cx"
+    :cy="circle.cy"
+    :r="circle.r"
+    :fill="circle === selected ? '#ccc' : '#fff'"
+    @click="selected = circle"
+    @contextmenu.prevent="adjust(circle)"
+  ></circle>
+</svg>
+
+<div class="controls">
+  <button @click="undo" :disabled="index <= 0">Deshacer</button>
+  <button @click="redo" :disabled="index >= history.length - 1">
+    Rehacer
+  </button>
+</div>
+
+<div class="dialog" v-if="adjusting" @click.stop>
+  <p>
+    Ajustar el radio del círculo en ({{ selected.cx }}, {{ selected.cy }})
+  </p>
+  <input type="range" v-model="selected.r" min="1" max="300" />
+</div>

@@ -1,0 +1,2 @@
+Un componente de árbol anidado que se renderiza a sí mismo recursivamente.
+Puedes hacer doble clic en un elemento para convertirlo en un directorio.

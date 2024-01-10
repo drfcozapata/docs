@@ -1,0 +1,10 @@
+<button @click="show = !show">Alternar la Lista</button>
+<button @click="list.push(list.length + 1)">Agregar un Número</button>
+<button @click="list.pop()">Eliminar un Número</button>
+<button @click="list.reverse()">Invertir la Lista</button>
+
+<ul v-if="show && list.length">
+  <li v-for="item of list">{{ item }}</li>
+</ul>
+<p v-else-if="list.length">La lista no está vacía, sino oculta.</p>
+<p v-else>La lista está vacía.</p>

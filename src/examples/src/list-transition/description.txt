@@ -1,0 +1,2 @@
+Transiciones de la lista FLIP con el <TransitionGroup> integrado.
+https://aerotwist.com/blog/flip-your-animations/

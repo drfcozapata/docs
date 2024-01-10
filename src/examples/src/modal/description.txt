@@ -1,0 +1,1 @@
+Componente modal con slots personalizables y transiciones CSS.

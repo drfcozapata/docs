@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Vehikl",
+    "logo": "vehikl.svg",
+    "flipLogo": true,
+    "intro": "Vehikl tiene un profundo conocimiento de Vue y actuará como una extensión de su equipo. Nos enfocamos en escribir código limpio y mantenible. Nos apasiona la mejora continua, y practicamos Mob Programming y Pair Programming en el día a día.",
+    "description": [
+      "Vehikl es un equipo que valora el cuidado, el crecimiento y la entrega. Infundimos esos valores en todo lo que hacemos y en todas las personas con las que trabajamos. Nuestro objetivo es ser una extensión de sus esfuerzos de desarrollo, y construir aplicaciones web y móviles excepcionales.",
+      "Nuestro equipo tiene una fuerte especialidad y un profundo conocimiento de los frameworks Vue, Laravel y React. Además de esto, nuestro equipo de 75 personas ha trabajado con cada pila tecnológica que puedas imaginar. Estamos orgullosos de ser desarrolladores orientados a las pruebas que se centran en escribir un código limpio y mantenible. Nuestro equipo está apasionado con la mejora continua, y practicamos Mob Programming y Pair Programming a diario.",
+      "Hemos trabajado en proyectos de una amplia gama de empresas que van desde startups hasta organizaciones de nivel empresarial. Somos un solo equipo con nuestros clientes y compartimos sus éxitos.",
+      "¿Y cómo es trabajar con nosotros?",
+      "- Comunicación diaria con su equipo.",
+      "- Colaborar con usted en la Planificación del Sprint semanal o quincenal.",
+      "- Demos y Retrospectivas al final de cada Sprint.",
+      "- Revisiones colaborativas de RP.",
+      "- Sesiones diarias de Pairing y Mobbing.",
+      "Siempre buscamos oportunidades para aprender cosas nuevas y mejorar nuestras habilidades utilizando el desarrollo lean Agile, la comunicación abierta y la colaboración. Combinamos la comunicación uno a uno y los valores iterativos de la metodología Agile para entregar código de alta calidad.",
+      "Somos miembros activos de la comunidad JavaScript y PHP, y nos encanta colaborar con otros entusiastas."
+    ],
+    "proficiencies": ["Vue", "Laravel", "React", "Node.js", "Unity"],
+    "region": ["Norte América"],
+    "location": ["Ontario, Canada"],
+    "website": {
+      "text": "www.vehikl.com",
+      "url": "https://www.vehikl.com?utm_source=vue_partners_page"
+    },
+    "contact": "go+vuepartner@vehikl.com",
+    "hiring": "https://vehikl.com/jobs/developer/",
+    "platinum": true
+  },
+  {
+    "name": "Passionate People",
+    "logo": "passionatepeople.png",
+    "flipLogo": true,
+    "intro": "Le proporcionamos capacidad técnica adicional para potenciar sus viajes de transformación digital con nuestros equipos de ingenieros y consultores de primera clase. Ingenieros Full Stack JavaScript Cloud listos para trabajar con usted y sus equipos.",
+    "description": [
+      "Fundada en octubre de 2017, Passionate People es la consultora de JavaScript líder en los Países Bajos.",
+      "Nuestro objetivo es ayudar a nuestros clientes a acelerar sus iniciativas de transformación digital a escala, y nuestro estándar es el más alto del sector.",
+      "Tenemos una amplia base de clientes que abarcan sectores como FinTech, E-commerce, Logística, Cadena de Suministro, Automatización Industrial, etc. Para lograr sus objetivos digitales y hacer que sus productos sean escalables y seguros para millones de usuarios, empresas como Albert Heijn Digital, GrandVision, Nationale Nederlanden, Talpa y AKQA han confiado en nosotros para realizar un trabajo de máxima calidad.",
+      "Además de ser la principal consultora de JavaScript en los Países Bajos, Passionate People también se enorgullece de acoger las mayores conferencias tecnológicas y eventos de la comunidad en el mundo.",
+      "Comenzando en febrero de 2018 con Frontend Love and Vue.js Amsterdam, ahora somos responsables de muchas otras conferencias en Europa bajo la marca Frontend Love: React Live, AngularNL, Vue.js Amsterdam y JS World Conference."
+    ],
+    "proficiencies": ["Vue", "Nuxt", "Node.js", "JAMStack"],
+    "region": ["Europa"],
+    "location": ["Amsterdam, Netherlands"],
+    "website": {
+      "text": "passionatepeople.io",
+      "url": "https://passionatepeople.io/"
+    },
+    "contact": "info@passionatepeople.io",
+    "platinum": true
+  },
+  {
+    "name": "Monterail",
+    "logo": "monterail.png",
+    "flipLogo": true,
+    "intro": "Monterail es una empresa de desarrollo de software de servicio completo de Polonia. Desde 2010, hemos estado construyendo software innovador para start-ups, PYMES y empresas de diversas industrias a nivel mundial. Nuestros expertos en Vue, utilizando tecnologías y frameworks de probada eficacia, han realizado más de 30 proyectos basados en Vue.",
+    "description": [
+      "En una consultoría de servicios completos como Monterail, tienes todas las competencias bajo un mismo techo. Desde el concepto hasta el diseño y el lanzamiento del producto. Dependiendo de la fase del ciclo de vida del producto, guiamos a los clientes en la creación de aplicaciones desde cero o en su rápida ampliación.",
+      "Un variado grupo de expertos, entre los que se encuentran diseñadores de productos, especialistas en control de calidad y analistas de negocio, se encargan de la consulta profesional de la pila tecnológica y de la validación de la idea de negocio. Trabajamos dentro de la metodología Agile, asegurando un flujo de comunicación fluido y apuntando a asociaciones a largo plazo. Hemos desarrollado todo tipo de aplicaciones Vue, desde visitas inmobiliarias virtuales hasta plataformas de donación.",
+      "¿Por qué Monterail?",
+      "- Incluida en el ranking 1000 del Financial Times dos veces consecutivas (2018 y 2019).",
+      "- Reconocida por Deloitte como una de las empresas tecnológicas de más rápido crecimiento en Europa Central (2016 & 2017).",
+      "- Calificada con 4,7/5 en Clutch.",
+      "- Puntuación NPS - 71.",
+      "- Expertos en desarrollo y diseño de software con sólida experiencia empresarial.",
+      "- Un equipo con experiencia en trabajo remoto en un entorno multicultural.",
+      "- Estimación detallada del presupuesto obtenido en semanas, no en meses."
+    ],
+    "proficiencies": [
+      "Vue.js",
+      "Ruby on Rails",
+      "Node.js",
+      "React Native",
+      "Flutter"
+    ],
+    "region": ["Europa"],
+    "website": {
+      "text": "www.monterail.com",
+      "url": "https://www.monterail.com/services/vue-js-development/?utm_source=vuejs.org"
+    },
+    "contact": "hello@monterail.com",
+    "hiring": "https://www.monterail.com/careers?utm_source=vuejs.org&utm_medium=referral&utm_campaign=partner-hiring-link",
+    "platinum": true
+  },
+  {
+    "name": "Curotec",
+    "logo": "curotec.png",
+    "intro": "Nuestros clientes aprovechan nuestra profunda experiencia en Vue.js y Nuxt.js para desarrollar los mejores productos digitales y expandir rápidamente la velocidad de su equipo de desarrollo de productos.",
+    "description": [
+      "Curotec aborda el desarrollo de software y el soporte de TI de forma diferente: aborda los problemas empresariales que nuestros clientes nos dicen que necesitan que se resuelvan con tecnología y con los recursos adecuados en el momento adecuado. Eso comienza con la comprensión de sus retos y el acompañamiento en las soluciones y el talento para obtener el resultado que se busca.",
+      "¿El resultado? Productos que responden a sus necesidades y están pensados para su crecimiento, al tiempo que garantizan que sus aplicaciones tengan una experiencia limpia y sencilla para el usuario final. Y con un código bien desarrollado y elegantemente escrito, nos resulta fácil dar soporte y mantenimiento a medida que sus necesidades evolucionan."
+    ],
+    "region": ["Norte América", "Latino América"],
+    "proficiencies": ["Vue", "Nuxt", "Laravel", "Jamstack"],
+    "website": {
+      "text": "www.curotec.com",
+      "url": "https://www.curotec.com/services/technologies/vuejs/"
+    },
+    "contact": "sales@curotec.com",
+    "hiring": "https://www.curotec.com/careers?source=vuejs-partner",
+    "platinum": true
+  },
+  {
+    "name": "Tighten",
+    "logo": "tighten.svg",
+    "flipLogo": true,
+    "intro": "Tratar bien a las personas, resolver los problemas adecuados y crear un software espectacular: así es como funcionamos. Estamos muy centrados y tenemos una gran experiencia en la tecnología que impulsa los negocios modernos, incluyendo Vue.js. A través de nuestro método característico, nuestro equipo meticulosamente ensamblado ofrece un servicio inigualable, ayudándole a hacer más con su software, y a hacer lo correcto para su negocio.",
+    "description": [
+      "Un desarrollo con opinión empática y ejecutado por expertos. Eso es lo que ofrecemos.",
+      "En Tighten, nos preocupamos por los detalles para dar a su aplicación el ajuste y el acabado que los usuarios de hoy en día esperan, mientras que le proporcionamos la claridad y la confianza para seguir adelante.",
+      "Ya sea que busque simplemente mejorar una interfaz de usuario o construir una sofisticada aplicación basada en JavaScript, lo tenemos cubierto. Vue.js es un framework flexible y robusto, capaz de proporcionar una aplicación de una sola página compleja. Habitualmente lo combinamos con una API basada en Laravel.",
+      "Si está formando un equipo de desarrollo, sabe que requiere tiempo y diligencia, y esto podría ser el factor decisivo para su negocio. Las empresas recurren a Tighten en puntos de inflexión clave para impulsar su tecnología mientras reúnen el equipo <b>correcto</b> para su negocio."
+    ],
+    "region": ["Norte América", "Europa", "Latino América"],
+    "proficiencies": ["Vue", "Nuxt", "Laravel", "Inertia", "Tailwind"],
+    "website": {
+      "text": "tighten.com",
+      "url": "https://tighten.com/vue"
+    },
+    "contact": "hello@tighten.co",
+    "platinum": true
+  },
+  {
+    "name": "Redberry",
+    "logo": "redberry.png",
+    "intro": "Somos una agencia de diseño de software, desarrollo y marketing de crecimiento de Tiflis, socio de Laravel y Vue, ganadora de más de 100 premios. En 8 años, hemos llevado más de 300 productos de cero a héroe usando Vue, Laravel, React y React Native para clientes que van desde startups e instituciones gubernamentales hasta agencias y empresas internacionales.",
+    "description": [
+      "Redberry nació en 2014 como un emprendimiento de cuatro amigos para llevar la transformación digital al negocio del ladrillo en Georgia. Hoy somos más de 150 y representamos la mayor agencia georgiana. Somos multifacéticos en todos los sentidos: tecnología, servicios, personas. Acompañamos a nuestros clientes a lo largo de todo el recorrido del producto: desde su diseño hasta su desarrollo y crecimiento. Contamos con un equipo galardonado internacionalmente de más de 100 diseñadores UX/UI legendarios, desarrolladores de software, ingenieros DevOps, gestores de proyectos, scrum masters, estrategas digitales, redactores publicitarios, creadores de contenido y growth hackers. Así que llámenos su socio digital de navaja suiza si quiere; nosotros lo hacemos.",
+      "Aunque somos una agencia de primer nivel, una de las cosas más bonitas de nosotros es nuestra ubicación, tanto literal como metafóricamente. Tenemos nuestra sede en Georgia (el país, no el estado), donde la subcontratación de TI está casi exenta de impuestos. Gracias a ello, nuestras startups, agencias y empresas asociadas con sede en la UE y en Estados Unidos disfrutan de un mayor recorrido y de unos márgenes de proyecto más importantes. Por suerte, tenemos una capacidad sustancial y un fácil acceso al talento tecnológico local en rápido crecimiento, por lo que somos el socio fiable y escalable de nuestros clientes.",
+      "Además de ser una casa de software oficial de Laravel y ahora Socio de Vue, somos una agencia de crecimiento creativo asociada a Google y Facebook, lo que nos convierte en un socio ideal de servicio completo para que más de 80 empresas de todos los tamaños hagan crecer su negocio progresivamente. También nos ha hecho ganar los títulos de Mejor Agencia del Año dos veces en 3 años, de 2019 a 2021. El negocio de nuestros clientes es nuestro negocio, por lo que nos mantenemos orientados a los resultados en todo momento, dentro y fuera del horario laboral, entre semana y los fines de semana, para asegurarnos de ofrecer las soluciones que impulsan los resultados de su negocio. Esa mentalidad ha dado forma a nuestra lista de clientes con líderes y finalistas del sector financiero, de seguros, inmobiliario, automovilístico, educativo, sanitario, etc.",
+      "En cuanto a la metodología, dirigir nuestro estudio de startups ha imprimido la agilidad en nuestro ADN. Hemos construido una docena de MVP y hemos seguido desarrollándolos a lo largo del tiempo en función de los requisitos empresariales siempre cambiantes, perfeccionando nuestra capacidad para optimizar el tiempo inicial de comercialización y la alta velocidad de desarrollo en cualquier proyecto que asumimos. También hemos interiorizado y estandarizado la creación y el mantenimiento de una adecuada cobertura de pruebas de la base de código y el uso regular de canales CI/CD, haciendo que nuestras vidas y códigos sean mucho más manejables.",
+      "Si quieres colaborar en la ampliación de tu equipo de producto, puedes contactar con nosotros a través de nuestra web."
+    ],
+    "region": ["Europa"],
+    "proficiencies": [
+      "Vue",
+      "Laravel",
+      "Node.js",
+      "React",
+      "React Native"
+    ],
+    "website": {
+      "text": "redberry.international",
+      "url": "https://redberry.international/"
+    },
+    "contact": "nini.doggo@redberry.ge"
+  },
+  {
+    "name": "WebReinvent",
+    "logo": "webreinvent.png",
+    "intro": "WebReinvent es una empresa de desarrollo de software que ofrece una gama de productos de software de principio a fin, aplicaciones en tiempo real, aplicaciones SaaS multiusuario, API de baja latencia y servicios de desarrollo de aplicaciones móviles. Hemos entregado software de nivel MVP a nivel empresarial en todo el mundo, desde startups a empresas multinacionales. Envíenos un correo electrónico y desarrollemos juntos su producto de software.",
+    "description": [
+      "WebReinvent es una empresa de desarrollo de software orientado a procesos que proporciona una gama de productos de software de principio a fin, aplicaciones en tiempo real, aplicaciones SaaS multiusuario, API de baja latencia y servicios de desarrollo de aplicaciones móviles. Nuestro equipo está bien versado en VueJs y su ecosistema. Hemos entregado MVP para el software de nivel empresarial desde startups hasta empresas multinacionales. No sólo proyectos de clientes; hemos desarrollado múltiples productos de código abierto que se basan en VueJs. Estamos orgullosos de mencionar que somos uno de los pocos socios oficiales de Laravel y también de NuxtJS.",
+      "A nuestro equipo le encanta seguir los estándares de la industria, algunos de los cuales son la gestión de repositorios git, la revisión de código, los despliegues de lanzamiento a través de CI/CD (DevOps), las pruebas de software automatizadas, el mantenimiento de la documentación técnica detallada, la supervisión del rendimiento de la aplicación, etc.",
+      "Envíenos un correo electrónico y construyamos su producto de software."
+    ],
+    "region": ["Norte América", "Asia", "Europa"],
+    "proficiencies": ["Vue", "Laravel", "Nuxt", "Ionic", "Node.js"],
+    "website": {
+      "text": "webreinvent.com",
+      "url": "https://webreinvent.com/?utm_source=vuejs.org&utm_medium=website&utm_campaign=partners"
+    },
+    "contact": "we@webreinvent.com",
+    "hiring": "https://webreinvent.com/career?utm_source=vuejs.org&utm_medium=website&utm_campaign=partner-hiring-link"
+  },
+  {
+    "name": "Dreamonkey",
+    "logo": "dreamonkey.png",
+    "hero": "dreamonkey-hero.png",
+    "intro": "Somos una casa de software italiana, que incluye colaboradores de equipos internacionales, con 8 años de experiencia en diseño y desarrollo de software. Construimos software desde cero o lo rediseñamos y apoyamos a los equipos de otras empresas, especialmente para la industria del IoT, entrega, finanzas, medicina, automoción y cadena de suministro, trabajando principalmente para clientes estadounidenses y canadienses. Somos orgullosos patrocinadores del framework Quasar y miembros de su equipo central.",
+    "description": [
+      "Nuestro stack incluye Vue, Quasar, Laravel y, cuando se solicita, también Angular. Nos esforzamos por producir código de alta calidad, limpio y bien documentado, haciéndolo sólido como una roca mediante pruebas automáticas. Nuestro frontend sigue las principales directrices de Google Material Design",
+      "Somos capaces de liderar proyectos desde el inicio hasta su despliegue, incluyendo análisis de requisitos, diseño UX/UI, entrega de activos de diseño, desarrollo y configuración de pipelines CI/CD en AWS. Podemos fusionarnos con la metodología ágil del cliente y, cuando se nos solicite, podemos encargarnos también de la gestión del proyecto con un profesional dedicado",
+      "Tenemos experiencia con proyectos de diferente complejidad, desde startups a nivel empresarial. Podemos proporcionar UIs estáticas, MPVs funcionales, SPA totalmente operativas o aplicaciones móviles. También dividimos nuestro equipo para proporcionar al cliente la experiencia específica que necesita, ya sea desarrollo, diseño o simplemente un análisis de viabilidad",
+      "Si necesita integrar nuevas habilidades en su equipo, podemos estructurar un programa de formación centrado en temas de desarrollo o diseño de su interés y ayudar a sus empleados a progresar con lecciones dedicadas."
+    ],
+    "proficiencies": [
+      "Vue",
+      "Quasar",
+      "Angular",
+      "Capacitor",
+      "Laravel",
+      "Node.js",
+      "NestJS",
+      "UX Design",
+      "AWS"
+    ],
+    "region": ["Europa", "Norte América"],
+    "website": {
+      "text": "dreamonkey.com",
+      "url": "https://dreamonkey.com/en/vue-partner"
+    },
+    "contact": "info@dreamonkey.com",
+    "hiring": "https://dreamonkey.com/en/work-with-us"
+  },
+  {
+    "name": "Jump24",
+    "logo": "jump24.svg",
+    "flipLogo": true,
+    "hero": "jump24-hero.jpg",
+    "intro": "Software hecho a medida, y entregado. Trabajamos con start-ups, empresas y equipos tecnológicos para crear soluciones de software web a medida que les ayuden a crecer. Perfeccionando nuestras habilidades desde 2013, nuestra fuerza es nuestra gente. Diseñamos y creamos aplicaciones personalizadas al más alto nivel, para que usted pueda cosechar los beneficios.",
+    "description": [
+      "Jump24 es un estudio de desarrollo integral que da vida a las ideas. Desde nuestra base en el Reino Unido, hemos trabajado estrechamente a lo largo de los años con clientes de Europa y Estados Unidos, como Jamie Oliver, Admiral, InPost y Buffer. Con un equipo de 16 desarrolladores, con nosotros estará en buenas manos",
+      "Las relaciones duraderas son nuestra especialidad. Tanto si eres una startup, una empresa o una agencia, tu historia es importante para nosotros. Nos centramos en los detalles más pequeños para ayudarte a crear algo que te refleje a ti y a tu negocio",
+      "Somos un grupo muy comunicativo, así que para saber aún más sobre nosotros, visita nuestro Twitter y LinkedIn."
+    ],
+    "proficiencies": ["Vue", "Laravel", "Tailwind", "Inertia", "React"],
+    "region": ["Europa"],
+    "website": {
+      "text": "jump24.co.uk",
+      "url": "https://jump24.co.uk/vue-specialist/"
+    },
+    "contact": "hello@jump24.co.uk",
+    "hiring": "jump24.co.uk/careers"
+  },
+  {
+    "name": "HeroDevs",
+    "logo": "herodevs.png",
+    "flipLogo": true,
+    "hero": "herodevs-hero.png",
+    "intro": "El fin de ciclo de vida (EOL) de las versiones de software de código abierto crea grandes desafíos para las empresas. HeroDevs ofrece dos soluciones: (1) Proporcionamos soporte continuo para software de código abierto que ha llegado al final de su vida útil, y (2) brindamos servicios de consultoría e ingeniería para ayudar a las empresas a migrar a software de código abierto que tiene soporte",
+    "description": [
+      "Cuando un software de código abierto esta alcanzando el fin de ciclo de vida, te enfrentas con una decision difícil: ¿dedicas meses o años de tiempo de desarrollo migrando tu código, o arriesgas no cumplir con las regulaciones de la industria y los acuerdos de nivel de servicio (SLAs) de tu compañía?",
+      "En HeroDevs nos enorgullecemos en ser expertos que te ayudan a navegar eventos de fin de ciclo de vida en tu stack tecnológico. Las compañías que ofrecen soporte empresarial para librerias de código abierto se detienen al final del ciclo de vida. Ahí es donde nuestra propuesta de valor comienza con nuestros productos de soporte indefinido (NES). Nuestro equipo no sólo ha proporcionado a más de 450 organizaciones versiones compatibles y seguras de software de código abierto más allá de su fin de ciclo de vida, sino que también hemos ayudado a docenas de compañías a migrar su base de código a un stack de código abierto moderno y compatible.",
+      "Con todos los productos NES ofrecemos: escaneo continuo de código fuente en busca de vulnerabilidades, instalación de 5 minutos sin salir de tu red, escaneo por posible infracción de propiedad intelectual (IP) en tu código, y chequeo de compatibilidad con la plataforma, navegador y librerias de terceros.",
+      "¿Necesitas migrar? HeroDevs te puede ayudar con eso también. Contrata nuestro equipo de expertos para ayudarte a navegar los desafíos que vienen con migrar tu código.",
+      "¿Quieres saber más? Encuéntranos en herodevs.com o envíanos una nota a hello@herodevs.com"
+    ],
+    "proficiencies": ["Vue", "Angular", "Migration", "EOL support"],
+    "region": ["Norte América"],
+    "website": {
+      "text": "herodevs.com",
+      "url": "https://www.herodevs.com/support/vue"
+    },
+    "platinum": true,
+    "contact": "hello@herodevs.com",
+    "hiring": "https://www.herodevs.com/job-board"
+  }
+]

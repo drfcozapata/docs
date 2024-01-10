@@ -1,0 +1,2 @@
+Este ejemplo recupera los datos de los últimos commits de Vue.js de la API de GitHub y los muestra como una lista.
+Puedes cambiar entre las dos ramas.

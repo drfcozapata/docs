@@ -1,0 +1,45 @@
+<h2>Entrada de Texto</h2>
+<input v-model="text"> {{ text }}
+
+<h2>Checkbox</h2>
+<input type="checkbox" id="checkbox" v-model="checked">
+<label for="checkbox">Chequeado: {{ checked }}</label>
+
+<!--
+  varias casillas de verificación pueden
+  vincularse al mismo valor v-model del array
+-->
+<h2>Multi Checkbox</h2>
+<input type="checkbox" id="jack" value="Jack" v-model="checkedNames">
+<label for="jack">Jack</label>
+<input type="checkbox" id="john" value="John" v-model="checkedNames">
+<label for="john">John</label>
+<input type="checkbox" id="mike" value="Mike" v-model="checkedNames">
+<label for="mike">Mike</label>
+<p>Nombres chequeados: <pre>{{ checkedNames }}</pre></p>
+
+<h2>Radio</h2>
+<input type="radio" id="one" value="Uno" v-model="picked">
+<label for="one">Uno</label>
+<br>
+<input type="radio" id="two" value="Dos" v-model="picked">
+<label for="two">Dos</label>
+<br>
+<span>Elegido: {{ picked }}</span>
+
+<h2>Select</h2>
+<select v-model="selected">
+  <option disabled value="">Por favor, selecciona uno</option>
+  <option>A</option>
+  <option>B</option>
+  <option>C</option>
+</select>
+<span>Seleccionado: {{ selected }}</span>
+
+<h2>Multi Select</h2>
+<select v-model="multiSelected" multiple style="width:100px">
+  <option>A</option>
+  <option>B</option>
+  <option>C</option>
+</select>
+<span>Seleccionado: {{ multiSelected }}</span>

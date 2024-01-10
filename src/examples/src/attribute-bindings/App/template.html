@@ -1,0 +1,17 @@
+<p>
+  <span :title="message">
+¡Coloca el ratón sobre mí durante unos segundos para ver mi título vinculado dinámicamente!
+  </span>
+</p>
+
+<!--
+Los vínculos de clase tienen un soporte especial para objetos y arrays además de cadenas simples
+-->
+<p :class="{ red: isRed }" @click="toggleRed">
+Esto debería ser rojo... pero haz clic en mí para alternarlo.
+</p>
+
+<!-- Los vínculos de clase también soportan objetos y arrays -->
+<p :style="{ color }" @click="toggleColor">
+Esto debería ser verde, y debería alternar entre verde y azul al hacer clic.
+</p>

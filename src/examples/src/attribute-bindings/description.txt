@@ -1,0 +1,2 @@
+Aquí estamos vinculando reactivamente los atributos / propiedades de los elementos al estado.
+La sintaxis :title es la abreviatura de v-bind:title.

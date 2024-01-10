@@ -1,0 +1,23 @@
+<!--
+  Observa que no necesitamos .value dentro de las
+  plantillas porque las refs se " desempaquetan"
+  automáticamente en las plantillas.
+-->
+<h1>{{ message }}</h1>
+
+<!--
+  Vinculación con un método/función.
+  La sintaxis @click es la abreviatura de v-on:click.
+-->
+<button @click="reverseMessage">Reversar el Mensaje</button>
+
+<!-- Puede ser también una declaración de expresión en línea -->
+<button @click="message += '!'">Añadir "!"</button>
+
+<!--
+  Además Vue provee modificadores para tareas comunes
+  como e.preventDefault() y e.stopPropagation()
+-->
+<a href="https://vuejs.org" @click.prevent="notify">
+  Un enlace con e.preventDefault()
+</a>

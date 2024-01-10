@@ -1,0 +1,1 @@
+Podemos renderizar el contenido condicionalmente o en un bucle con las directivas v-if y v-for.
